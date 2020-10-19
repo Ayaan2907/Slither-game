@@ -11,9 +11,9 @@ const int UP = 259,
           RIGHT = 261;
 
 const int FOOD_COLOR_PAIR = 1;
-const int SNAKE_COLOR_PAIR = 7;
-const int BORDER_COLOR_PAIR = 1;
-const int STATUS_COLOR_PAIR = 5;
+const int SNAKE_COLOR_PAIR = 3;
+const int BORDER_COLOR_PAIR = 5;
+const int STATUS_COLOR_PAIR = 2;
 
 const int FOOD_COUNT = 10;
 
